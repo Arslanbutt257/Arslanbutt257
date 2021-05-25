@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arslanbutt257
+- 👋 Hi, I’m Arslan Butt
 - 👀 I’m interested in Artificial Intellligence
 - 🌱 I’m currently learning and improving my skills in machine learning and deep learning
 - 📫 My Email is arslanbutt257@gmail.com
